@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Chicken Biryani illustration">
+  <rect width="400" height="300" fill="#fff7ed"/>
+  <rect x="78" y="72" width="244" height="150" rx="30" fill="#f59e0b"/>
+  <circle cx="126" cy="118" r="20" fill="#f97316"/>
+  <circle cx="188" cy="112" r="22" fill="#fde68a"/>
+  <circle cx="252" cy="128" r="20" fill="#f97316"/>
+  <circle cx="160" cy="175" r="18" fill="#fcd34d"/>
+  <circle cx="228" cy="176" r="18" fill="#f97316"/>
+  <text x="200" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#7c2d12">Chicken Biryani</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Cheese Burger illustration">
+  <rect width="400" height="300" fill="#fff7ed"/>
+  <rect x="70" y="120" width="260" height="55" rx="18" fill="#f59e0b"/>
+  <rect x="88" y="95" width="224" height="32" rx="16" fill="#fde68a"/>
+  <rect x="100" y="78" width="200" height="22" rx="11" fill="#fcd34d"/>
+  <rect x="98" y="158" width="204" height="24" rx="12" fill="#ea580c"/>
+  <text x="200" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#7c2d12">Cheese Burger</text>
+</svg>

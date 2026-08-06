@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="White Sauce Pasta illustration">
+  <rect width="400" height="300" fill="#fff7ed"/>
+  <rect x="70" y="68" width="260" height="164" rx="30" fill="#fcd34d"/>
+  <path d="M100 150C115 115 145 98 200 98C255 98 285 115 300 150C290 200 250 220 200 220C150 220 110 200 100 150Z" fill="#ffffff"/>
+  <circle cx="160" cy="146" r="16" fill="#22c55e"/>
+  <circle cx="234" cy="122" r="14" fill="#22c55e"/>
+  <circle cx="206" cy="170" r="15" fill="#22c55e"/>
+  <text x="200" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#7c2d12">White Sauce Pasta</text>
+</svg>

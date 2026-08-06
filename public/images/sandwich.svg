@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Chicken Sandwich illustration">
+  <rect width="400" height="300" fill="#fff7ed"/>
+  <rect x="88" y="92" width="224" height="118" rx="24" fill="#f59e0b"/>
+  <rect x="108" y="112" width="184" height="78" rx="18" fill="#fde68a"/>
+  <circle cx="150" cy="150" r="12" fill="#f97316"/>
+  <circle cx="200" cy="144" r="12" fill="#f97316"/>
+  <circle cx="248" cy="154" r="12" fill="#f97316"/>
+  <text x="200" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#7c2d12">Chicken Sandwich</text>
+</svg>

@@ -1,0 +1,42 @@
+/* Home Page */
+
+.home {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f8f8f8;
+  min-height: 80vh;
+}
+
+.home h1 {
+  font-size: 42px;
+  color: #ff6b35;
+  margin-bottom: 15px;
+}
+
+.home p {
+  font-size: 20px;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.home img {
+  width: 300px;
+  height: auto;
+  border-radius: 15px;
+  margin-bottom: 30px;
+}
+
+.home button {
+  background-color: #ff6b35;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.home button:hover {
+  background-color: #e85a2a;
+}
