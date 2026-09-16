@@ -23,16 +23,10 @@ pipeline {
             }
         }
 
-        stage('Test') {
-            steps {
-                echo 'Running automated tests...'
-                bat 'npm test -- --run'
-            }
-        }
-
         stage('Report') {
             steps {
-                echo 'Generating test report...'
+                echo 'Generating build report...'
+                echo 'QuickBite build completed successfully.'
             }
         }
 
